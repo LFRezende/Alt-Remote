@@ -22,3 +22,7 @@ c = 12
 
 # Added feature to alternative repo.
 d = 20
+
+# New feat:
+
+S = a*b*c
