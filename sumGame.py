@@ -19,3 +19,7 @@
 a = 3
 b = 7
 c = 12
+
+# Sum of the practicing game:
+
+S = a + b + c
