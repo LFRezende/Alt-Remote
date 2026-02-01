@@ -26,3 +26,6 @@ S = a + b + c
 
 # After setting new upstream.
 S += int(b*c/a)
+
+# After setting new upstream.
+S += int(b*c/a)
